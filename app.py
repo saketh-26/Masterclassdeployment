@@ -24,6 +24,3 @@ def predict():
                            prediction_text="The House Price Prediction is {}".format(output))
 
 
-app.run()
-
-
